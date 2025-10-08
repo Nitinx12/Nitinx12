@@ -1,27 +1,60 @@
-### Hi there, I'm Nitin Kumar 👋
+<div align="center">
 
-I am a detail-oriented Data Analyst who uses SQL, Python, and Power BI to make complex data easy to understand. My focus is on improving business intelligence by creating efficient, automated reporting solutions that provide clear insights and drive strategy.
+  <img src="https://media.giphy.com/media/fYSnHlufseSsswV0kG/giphy.gif" width="150" />
 
-### Experience
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nitin+Kumar+%F0%9F%91%8B;I+turn+data+into+stories." alt="Typing SVG" />
+    </a>
+  </h1>
 
-* **Data Analyst** @ **Medianama** (June 2024-February 2025)
-    * Cut reporting time by 50% by creating an automated Power BI dashboard with data from Google Cloud.
-    * Created data visualizations of company performance metrics with Seaborn and Excel to support the editorial team in writing business articles.
-    * Cleaned, transformed, and validated a dataset of over 100,000 records with python (Pandas), improving data accuracy and accessibility in SQL server.
+  <p>
+    I'm a Data Analyst who loves diving into complex datasets to uncover insights and build efficient automated solutions with tools like SQL, Python, and Power BI.
+  </p>
 
-### My Projects
+  <p>
+    <a href="https://www.linkedin.com/in/nitin-k-220651351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:Nitin321x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 
-* **[Hospital Management Analysis](your-github-project-link-here)**: Analyzed hospital data using PostgreSQL to answer 16 business questions regarding revenue and patient demographics, identifying key insights like top-performing clinics and high rates of missed appointments.
-* **[Blinkit Dashboard](your-github-project-link-here)**: Created a dynamic Power BI dashboard to analyze Blinkit's sales and operational data, providing a clear overview of key performance metrics using an Excel dataset.
-* **[Data Integrity Project: Bookings](your-github-project-link-here)**: Enhanced the data quality and integrity of a 100k+ record transportation dataset by implementing imputation and visualization techniques in Python.
+---
 
-### Skills
+### 🔎 What I'm Looking For
 
-* **Programming & Analytics**: Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, Statistics, ETL
-* **Databases**: PostgreSQL & MySQL
-* **Data Visualization**: Power BI & Excel
-* **Tools & Collaboration**: Slack, Discord, Google workspace
+* **🚀 Open to Work:** Seeking a full-time **Data Analyst** role where I can contribute to data-driven strategies and grow my skills.
+* **🤝 Open to Collaboration:** Always interested in collaborating on exciting open-source or private data projects. Feel free to reach out!
 
-### Contact Me
-* **LinkedIn**: [https://www.linkedin.com/in/nitin-k-220651351/](https://www.linkedin.com/in/nitin-k-220651351/)
-* **Email**: Nitin321x@gmail.com
+---
+
+### 💻 My Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</div>
+
+---
+
+### 🎮 Just For Fun
+
+When I'm not wrangling data, you might find me exploring the streets of Los Santos. Let's play sometime!
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Rockstar_Games-FCB500?style=for-the-badge&logo=rockstargames&logoColor=black" alt="Rockstar Games"/>
+  <strong>Username: Your-Rockstar-Username</strong>
+</div>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Nitin's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+</div>
