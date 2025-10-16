@@ -63,8 +63,8 @@ Here are some of the tools and technologies I work with:
 #### 1. [Booking Data Cleaning Project](https://github.com/Nitinx12/Booking_data_cleaning_project/blob/main/README.md)
 A comprehensive data cleaning project where I transformed raw booking data into a structured format, ensuring accuracy and consistency for analysis. **(Tools: Python, Pandas)**
 
-#### 2. [SQL for Healthcare](https://github.com/Nitinx12/SQL_For_Health_care/blob/main/README.md)
-Developed SQL queries to analyze healthcare datasets, focusing on patient demographics, treatment outcomes, and hospital performance metrics. **(Tools: SQL)**
+#### 2. [Hospital Management System Performance Analysis](https://github.com/Nitinx12/Hospital-Management-System-Performance-Analysis/blob/main/README.md)
+This project presents an in-depth analysis of a hospital management system's operational and financial data. By leveraging both SQL for complex querying and Python for exploratory data analysis (EDA). **(Tools: PostgreSQL, Python(Pandas, NumPy, Matplotlib, Seaborn, DuckDB, SQLAlchemy)**
 
 ---
 
