@@ -61,10 +61,10 @@ Here are some of the tools and technologies I work with:
 ### 📂 Featured Projects
 
 #### 1. [E-Commerce Exploratory Data Analysis (EDA)](https://github.com/Nitinx12/End-to-End-E-Commerce-Sales-Analytics/edit/main/README.md)
-A comprehensive data cleaning project where raw e-commerce sales and customer data was transformed into a structured, analysis-ready format, ensuring accuracy and consistency.**(Tools: Python, Pandas)**.
+A comprehensive data cleaning project where raw e-commerce sales and customer data was transformed into a structured, analysis-ready format, ensuring accuracy and consistency.**(Tools: PostgreSQL Python, Pandas, DuckDB, SQLAlchemy, Seaborn, Matplotlib)**.
 
-#### 2. [Hospital Management System Performance Analysis](https://github.com/Nitinx12/Hospital-Management-System-Performance-Analysis/blob/main/README.md)
-This project presents an in-depth analysis of a hospital management system's operational and financial data. By leveraging both SQL for complex querying and Python for exploratory data analysis (EDA). **(Tools: PostgreSQL, Python(Pandas, NumPy, Matplotlib, Seaborn, DuckDB, SQLAlchemy)**
+#### 2. [Blinkit Sales Dashboard - Power BI Project](https://github.com/Nitinx12/The-Insight-Engine-Power-BI-Dashboard/edit/main/README.md)
+Designed an interactive Power BI dashboard to analyze Blinkit sales performance, tracking key KPIs such as revenue, orders, customer trends, and product categories. **(Tools: Power BI, DAX)**
 
 ---
 
