@@ -60,7 +60,7 @@ Here are some of the tools and technologies I work with:
 
 ### 📂 Featured Projects
 
-#### 1. [Booking Data Cleaning Project](https://github.com/Nitinx12/Booking_data_cleaning_project/blob/main/README.md)
+#### 1. [https://github.com/Nitinx12/End-to-End-E-Commerce-Sales-Analytics)
 A comprehensive data cleaning project where I transformed raw booking data into a structured format, ensuring accuracy and consistency for analysis. **(Tools: Python, Pandas)**
 
 #### 2. [Hospital Management System Performance Analysis](https://github.com/Nitinx12/Hospital-Management-System-Performance-Analysis/blob/main/README.md)
