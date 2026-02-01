@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=0F4C81&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nitin+%7C+Data+Analyst" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=0F4C81&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nitin+%7C+" alt="Typing SVG"/>
 </p>
 <p align="center">
   <em>A curious Data Analyst who loves finding insights that make a difference.</em>
