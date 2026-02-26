@@ -63,9 +63,6 @@ Here are some of the tools and technologies I work with:
 #### 1. [E-Commerce Exploratory Data Analysis (EDA)](https://github.com/Nitinx12/End-to-End-E-Commerce-Sales-Analytics/edit/main/README.md)
 A comprehensive data cleaning project where raw e-commerce sales and customer data was transformed into a structured, analysis-ready format, ensuring accuracy and consistency.**(Tools: PostgreSQL Python, Pandas, DuckDB, SQLAlchemy, Seaborn, Matplotlib)**.
 
-#### 2. [Blinkit Sales Dashboard - Power BI Project](https://github.com/Nitinx12/The-Insight-Engine-Power-BI-Dashboard/edit/main/README.md)
-Designed an interactive Power BI dashboard to analyze Blinkit sales performance, tracking key KPIs such as revenue, orders, customer trends, and product categories. **(Tools: Power BI, DAX)**
-
 ---
 
 ### 📫 Let's Connect!
