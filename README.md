@@ -11,17 +11,19 @@
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    SYSTEM PROFILE :: NITIN.EXE                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  ROLE      │ Data Analyst → Data Engineer (transition in progress)  ║
-║  EXP       │ ~1 yr analytics + actively building DE stack           ║
-║  LOCATION  │ India  │  Remote-ready  │  Hybrid-open                 ║
-║  SEEKING   │ DA & DE Roles  │  Real problems, not toy datasets      ║
-║  MOTTO     │ "Not just dashboards — pipelines that actually run."   ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  PIPELINE  │ [██████████████████░░░░░░░░░░]  65% to full DE        ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM PROFILE :: NITIN.EXE                          ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  ROLE       │ Data Analyst → Data Engineer (transition in progress)          ║
+║  EXP        │ 1.5 years analytics + actively building DE stack               ║
+║  STACK      │ SQL, Python (PySpark/Pandas), Power BI, Tableau                ║
+║  PROJECTS   │ Medallion ETL Pipeline, Hospital Mgmt DB (SQL)                 ║
+║  LOCATION   │ Delhi, India │ Remote-ready │ Hybrid-open                      ║
+║  SEEKING    │ DA & DE Roles │ Real problems, not toy datasets                ║
+║  MOTTO      │ "Not just dashboards - pipelines that actually run."           ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  PIPELINE   │ [█████████████████████████░░░░░░░░░░]  70% to full DE          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
