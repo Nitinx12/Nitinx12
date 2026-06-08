@@ -1,12 +1,8 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--              ⚡  NITIN  |  CYBERPUNK DATA PROFILE  ⚡          -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:2D1B69,70:7C3AED,100:A855F7&height=180&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1200&color=A855F7&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Nitin+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+Data+Engineer;SQL+%7C+Python+%7C+Power+BI+%7C+Airflow;Building+Pipelines+That+Scale+%E2%9A%A1;Every+Dataset+Has+a+Story+%E2%80%94+I+Find+It" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=A855F7&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Nitin+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+Data+Engineer;SQL+%7C+Python+%7C+Power+BI+%7C+Airflow;Building+Pipelines+That+Scale+%E2%9A%A1;Decisions%2C+Not+Just+Dashboards." alt="Typing SVG" />
 
 <br/>
 
@@ -25,46 +21,64 @@
     <img src="https://img.shields.io/badge/Gmail-06B6D4?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_To_Work-00D26A?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_To_Work-00D26A?style=flat-square"/>
 </p>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                          -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 ## `$ whoami`
 
-```python
-nitin = {
-    "role"      : "Data Analyst  →  Data Engineer",
-    "focus"     : ["EDA", "Business Intelligence", "ETL Pipelines", "Data Modelling"],
-    "stack"     : ["SQL", "Python", "Power BI", "Airflow", "Docker", "PySpark"],
-    "mindset"   : "Every dataset has a story. I find it.",
-    "currently" : "⚡ Building production-grade data pipelines",
-    "fun_fact"  : "Gamer by night — the same logic that wins games, wins with data 🎮"
-}
-```
-
-<br/>
-
-<div align="center">
-
-| ⚡ Goes one query deeper | 🔮 Builds decisions, not dashboards | 🚀 Open to DA & DE roles |
-|:---:|:---:|:---:|
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Role</h3>
+      <p>Data Analyst &nbsp;<b>→</b>&nbsp; Data Engineer</p>
+      <img src="https://img.shields.io/badge/transition-in_progress-A855F7?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Mindset</h3>
+      <p><i>"Turn raw data into decisions — not just dashboards."</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Focus Areas</h3>
+      <p>
+        <img src="https://img.shields.io/badge/EDA-7C3AED?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BI_%26_Analytics-9333EA?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ETL_Pipelines-A855F7?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data_Modelling-C084FC?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-9333EA?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-A855F7?style=flat-square&logo=powerbi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Airflow-06B6D4?style=flat-square&logo=apacheairflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PySpark-06B6D4?style=flat-square&logo=apachespark&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>🎮 Fun Fact</h3>
+      <p>Gamer by night — the same logic that wins games, wins with data.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                   TECH STACK                         -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -80,7 +94,7 @@ nitin = {
   </td>
   <td valign="top" width="33%">
 
-**🔬 Data Analysis**
+**🔬 Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-A855F7?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white)
@@ -99,8 +113,6 @@ nitin = {
   </td>
   </tr>
 </table>
-
-<!-- ⚡ DATA ENGINEERING — FULL-WIDTH HIGHLIGHT ROW ⚡ -->
 
 <table>
   <tr>
@@ -145,47 +157,53 @@ nitin = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               CURRENTLY LEARNING                     -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 ## 📚 Currently Learning
 
-<div align="center">
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-06B6D4?style=for-the-badge&logo=apachekafka&logoColor=white)
-&nbsp;
-![dbt](https://img.shields.io/badge/dbt-A855F7?style=for-the-badge&logo=dbt&logoColor=white)
-&nbsp;
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white)
-&nbsp;
-![AWS](https://img.shields.io/badge/AWS_Data_Services-22D3EE?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br/>
-
-```
-LEARNING PATH  ▓▓▓▓▓▓▓▓░░░░░░░░  50%   → Data Engineering
-SIDE QUEST     ▓▓▓▓░░░░░░░░░░░░  25%   → ML Fundamentals
-EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud (AWS)
-```
+<table>
+  <tr>
+    <td width="40%"><b>📦 Data Engineering</b></td>
+    <td width="45%">
+      <img src="https://img.shields.io/badge/Apache_Kafka-06B6D4?style=flat-square&logo=apachekafka&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/dbt-A855F7?style=flat-square&logo=dbt&logoColor=white"/>
+    </td>
+    <td width="15%">
+      <img src="https://img.shields.io/badge/50%25-active-A855F7?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 ML Fundamentals</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/25%25-side_quest-9333EA?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Data_Services-22D3EE?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/15%25-exploring-06B6D4?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 > *"The more I learn, the more I realize how much there is to build."*
-
-</div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               CERTIFICATIONS                         -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
 <div align="center">
-
-<!-- 🔁 Replace these with your actual certifications -->
 
 ![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-A855F7?style=for-the-badge&logo=google&logoColor=white)
 &nbsp;
@@ -203,9 +221,7 @@ EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS                        -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 ## 📊 GitHub Stats
 
@@ -225,9 +241,7 @@ EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               FEATURED PROJECTS                      -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 ## 📂 Featured Projects
 
@@ -236,7 +250,7 @@ EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud
     <td width="100%">
       <h3>🛒 <a href="https://github.com/Nitinx12/End-to-End-E-Commerce-Sales-Analytics">End-to-End E-Commerce Sales Analytics</a></h3>
       <p>
-        A production-grade <strong>data pipeline & EDA project</strong> that transforms raw, inconsistent e-commerce sales data into a clean, structured, insight-ready format. Covers the full analyst workflow — ingestion → cleaning → EDA → visualization.
+        A production-grade <strong>data pipeline & EDA project</strong> that transforms raw, messy e-commerce data into a clean, insight-ready format. Covers the full analyst workflow — ingestion → cleaning → EDA → visualization.
       </p>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-A855F7?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -247,15 +261,13 @@ EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud
         <img src="https://img.shields.io/badge/Seaborn-22D3EE?style=flat-square"/>
         <img src="https://img.shields.io/badge/Matplotlib-06B6D4?style=flat-square"/>
       </p>
-      <p>
-        ✅ Data cleaning & deduplication &nbsp;|&nbsp; ✅ SQL + Python hybrid pipeline &nbsp;|&nbsp; ✅ EDA with visual storytelling
-      </p>
+      <p>✅ Data cleaning & deduplication &nbsp;|&nbsp; ✅ SQL + Python hybrid pipeline &nbsp;|&nbsp; ✅ EDA with visual storytelling</p>
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td>
       <h3>🔧 <em>More projects dropping soon...</em></h3>
-      <p><code>STATUS: [ BUILDING IN PROGRESS... ⚡ ]</code> — Watch this space.</p>
+      <p><code>STATUS: [ BUILDING IN PROGRESS ⚡ ]</code></p>
     </td>
   </tr>
 </table>
@@ -264,30 +276,26 @@ EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--             PROJECT ROADMAP / WHAT'S NEXT           -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
-## 🛸 What's Next — Project Roadmap
+## 🛸 Project Roadmap
 
 ```
-⚡ PROJECT PIPELINE                                         STATUS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔄  Real-Time Streaming Pipeline  (Kafka + PySpark)     [ IN PROGRESS ]
-🏗️  Dockerized Airflow ETL Orchestration                [ PLANNED      ]
-📊  Power BI Enterprise Dashboard  (Finance Domain)     [ PLANNED      ]
-🤖  Predictive Analytics — ML Integration Project       [ UPCOMING     ]
-☁️  Cloud Data Warehouse Project  (AWS / GCP)           [ UPCOMING     ]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ PIPELINE                                                  STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔄  Real-Time Streaming Pipeline  (Kafka + PySpark)      [ IN PROGRESS ]
+🏗️  Dockerized Airflow ETL Orchestration                 [ PLANNED      ]
+📊  Power BI Enterprise Dashboard  (Finance Domain)      [ PLANNED      ]
+🤖  Predictive Analytics — ML Integration                [ UPCOMING     ]
+☁️  Cloud Data Warehouse Project  (AWS / GCP)            [ UPCOMING     ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE                      -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 ## 🐍 Contribution Activity
 
@@ -297,9 +305,7 @@ EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               QUOTE BANNER + FOOTER                  -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
@@ -312,13 +318,13 @@ EXPLORATION    ▓▓░░░░░░░░░░░░░░  15%   → Cloud
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**⚡ Open to Data Analyst & Data Engineer opportunities — let's talk!**
+**⚡ Open to Data Analyst & Data Engineer opportunities — let's connect!**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-k-220651351/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-k-220651351/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nitin321x@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nitin321x@gmail.com)
 
 </div>
 
