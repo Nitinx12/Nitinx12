@@ -12,17 +12,17 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                         SYSTEM PROFILE :: NITIN.EXE                         ║
+║                         SYSTEM PROFILE :: NITIN.EXE                          ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  ROLE       │ Data Analyst → Data Engineer (transition in progress)         ║
-║  EXP        │ 1.5 years analytics + actively building DE stack              ║
-║  STACK      │ SQL · Python (PySpark/Pandas) · Airflow · dbt · Power BI     ║
-║  PROJECTS   │ E-Commerce ETL · Retail DW · Bike Store DB · Airflow+dbt     ║
-║  LOCATION   │ Delhi, India  │  Remote-ready  │  Hybrid-open                ║
-║  SEEKING    │ DA & DE Roles │ Real problems, not toy datasets               ║
-║  MOTTO      │ "Not just dashboards — pipelines that actually run."         ║
+║  ROLE       │ Data Analyst → Data Engineer (transition in progress)          ║
+║  EXP        │ 1.5 years analytics + actively building DE stack               ║
+║  STACK      │ SQL · Python (PySpark/Pandas) · Airflow · dbt · Power BI       ║
+║  PROJECTS   │ E-Commerce ETL · Retail DW · Bike Store DB · Airflow+dbt       ║
+║  LOCATION   │ Delhi, India  │  Remote-ready  │  Hybrid-open                  ║
+║  SEEKING    │ DA & DE Roles │ Real problems, not toy datasets                ║
+║  MOTTO      │ "Not just dashboards — pipelines that actually run."           ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  DE PIPELINE  [████████████████░░░░░░░░░░░░]  70%  →  Full Stack Engineer  ║
+║  DE PIPELINE  [████████████████░░░░░░░░░░░░]  70%  →  Full Stack Engineer    ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -234,13 +234,13 @@ Event-driven pipeline with real-time processing. The step that separates analyst
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                        SKILL ACQUISITION LOG :: 2026                        ║
-╠══════════════════════╦════════════════════════════╦══════════╦══════════════╣
-║ TRACK                ║ FOCUS AREAS                ║ PROGRESS ║ STATUS       ║
-╠══════════════════════╬════════════════════════════╬══════════╬══════════════╣
-║ Data Engineering     ║ PySpark                    ║          ║              ║
+║                        SKILL ACQUISITION LOG :: 2026                         ║
+╠══════════════════════╦════════════════════════════╦══════════╦══════════════ ╣
+║ TRACK                ║ FOCUS AREAS                ║ PROGRESS ║ STATUS        ║
+╠══════════════════════╬════════════════════════════╬══════════╬══════════════ ╣
+║ Data Engineering     ║ PySpark                    ║          ║               ║
 ║                      ║ SQLAlchemy                 ║ ▓▓▓▓▓▓░░ ║ ⚡ ACTIVE    ║
-║                      ║ Airflow                    ║   75%    ║              ║
+║                      ║ Airflow                    ║   75%    ║               ║
 ║                      ║ dbt                        ║          ║              ║
 ║                      ║ Medallion Architecture     ║          ║              ║
 ╠══════════════════════╬════════════════════════════╬══════════╬══════════════╣
