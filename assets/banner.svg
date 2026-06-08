@@ -1,0 +1,235 @@
+<svg width="860" height="285" viewBox="0 0 860 285" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+  <!-- scanline pattern -->
+  <pattern id="scan" x="0" y="0" width="860" height="4" patternUnits="userSpaceOnUse">
+    <line x1="0" y1="0" x2="860" y2="0" stroke="#00ff41" stroke-width="0.3" opacity="0.06"/>
+  </pattern>
+  <!-- dot grid pattern -->
+  <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="10" cy="10" r="0.6" fill="#00ff41" opacity="0.12"/>
+  </pattern>
+</defs>
+
+<!-- Background -->
+<rect width="860" height="285" fill="#000000" rx="6"/>
+<rect width="860" height="285" fill="url(#dots)" rx="6"/>
+<rect width="860" height="285" fill="url(#scan)" rx="6"/>
+
+<!-- Moving scan highlight -->
+<rect x="0" y="0" width="860" height="5" fill="#00ff41" opacity="0.035" rx="3">
+  <animate attributeName="y" from="-5" to="290" dur="9s" repeatCount="indefinite"/>
+</rect>
+
+<!-- ════════════ LEFT PANEL: EYES ════════════ -->
+
+<!-- Corner decorators -->
+<text x="10" y="22" fill="#004400" font-size="11" font-family="monospace">┌─[NITIN.EXE]─────────────────────────────────────────</text>
+<text x="10" y="270" fill="#004400" font-size="11" font-family="monospace">└─[$]</text>
+
+<!-- FLOATING DATA NUMBERS (behind eyes) -->
+<!-- Each: floats from bottom to top, fades in and out, staggered starts -->
+
+<text x="18" y="250" fill="#00ff41" font-size="9" font-family="monospace" opacity="0">
+  01101001
+  <animate attributeName="y" from="260" to="30" dur="9s" begin="0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.65;0.65;0.65;0.2;0" dur="9s" begin="0s" repeatCount="indefinite"/>
+</text>
+
+<text x="58" y="250" fill="#00cc33" font-size="8" font-family="monospace" opacity="0">
+  SELECT *
+  <animate attributeName="y" from="270" to="20" dur="10s" begin="1.2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.55;0.55;0.3;0" dur="10s" begin="1.2s" repeatCount="indefinite"/>
+</text>
+
+<text x="110" y="250" fill="#00ff41" font-size="10" font-family="monospace" opacity="0">
+  1.2M
+  <animate attributeName="y" from="265" to="25" dur="8s" begin="2.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.75;0.75;0.5;0" dur="8s" begin="2.5s" repeatCount="indefinite"/>
+</text>
+
+<text x="155" y="250" fill="#006600" font-size="9" font-family="monospace" opacity="0">
+  ETL ▶
+  <animate attributeName="y" from="260" to="35" dur="11s" begin="0.7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.6;0.6;0.3;0" dur="11s" begin="0.7s" repeatCount="indefinite"/>
+</text>
+
+<text x="35" y="250" fill="#00aa33" font-size="8" font-family="monospace" opacity="0">
+  0xFF4A
+  <animate attributeName="y" from="255" to="40" dur="9.5s" begin="3.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.5;0.5;0.25;0" dur="9.5s" begin="3.8s" repeatCount="indefinite"/>
+</text>
+
+<text x="200" y="250" fill="#00ff41" font-size="11" font-family="monospace" opacity="0">
+  99.7%
+  <animate attributeName="y" from="262" to="28" dur="8.5s" begin="5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.7;0.7;0.4;0" dur="8.5s" begin="5s" repeatCount="indefinite"/>
+</text>
+
+<text x="80" y="250" fill="#009922" font-size="9" font-family="monospace" opacity="0">
+  NULL
+  <animate attributeName="y" from="268" to="22" dur="10.5s" begin="4.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.5;0.5;0.25;0" dur="10.5s" begin="4.3s" repeatCount="indefinite"/>
+</text>
+
+<text x="130" y="250" fill="#00ff41" font-size="8" font-family="monospace" opacity="0">
+  pipeline
+  <animate attributeName="y" from="258" to="32" dur="7.5s" begin="6.1s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.6;0.6;0.3;0" dur="7.5s" begin="6.1s" repeatCount="indefinite"/>
+</text>
+
+<text x="175" y="250" fill="#00cc33" font-size="10" font-family="monospace" opacity="0">
+  dbt
+  <animate attributeName="y" from="265" to="18" dur="9s" begin="7.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.75;0.75;0.4;0" dur="9s" begin="7.4s" repeatCount="indefinite"/>
+</text>
+
+<text x="48" y="250" fill="#006600" font-size="9" font-family="monospace" opacity="0">
+  BRONZE
+  <animate attributeName="y" from="260" to="30" dur="10s" begin="8.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.55;0.55;0.28;0" dur="10s" begin="8.5s" repeatCount="indefinite"/>
+</text>
+
+<text x="92" y="250" fill="#00ff41" font-size="8" font-family="monospace" opacity="0">
+  Airflow
+  <animate attributeName="y" from="270" to="25" dur="8s" begin="9.2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.6;0.6;0.3;0" dur="8s" begin="9.2s" repeatCount="indefinite"/>
+</text>
+
+<text x="220" y="250" fill="#00aa33" font-size="8" font-family="monospace" opacity="0">
+  10K rows
+  <animate attributeName="y" from="256" to="35" dur="11s" begin="2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.5;0.5;0.25;0" dur="11s" begin="2s" repeatCount="indefinite"/>
+</text>
+
+<text x="15" y="250" fill="#00cc33" font-size="9" font-family="monospace" opacity="0">
+  PySpark
+  <animate attributeName="y" from="263" to="28" dur="9s" begin="10.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.65;0.65;0.35;0" dur="9s" begin="10.5s" repeatCount="indefinite"/>
+</text>
+
+<text x="145" y="250" fill="#00ff41" font-size="8" font-family="monospace" opacity="0">
+  GOLD ✦
+  <animate attributeName="y" from="267" to="22" dur="8.5s" begin="11.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.7;0.7;0.35;0" dur="8.5s" begin="11.3s" repeatCount="indefinite"/>
+</text>
+
+<text x="68" y="250" fill="#009922" font-size="9" font-family="monospace" opacity="0">
+  JSON {}
+  <animate attributeName="y" from="261" to="33" dur="10s" begin="13s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0;0.55;0.55;0.28;0" dur="10s" begin="13s" repeatCount="indefinite"/>
+</text>
+
+<!-- ════ EYE 1 (LEFT) ════ -->
+<g transform="translate(92,138)">
+  <!-- outer glow ring, pulsing -->
+  <ellipse rx="42" ry="30" fill="none" stroke="#00ff41" stroke-width="1.5" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.35;0.18" dur="2.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- socket -->
+  <ellipse rx="38" ry="26" fill="#001200"/>
+  <!-- iris outer -->
+  <ellipse rx="24" ry="22" fill="#003d00"/>
+  <!-- iris inner -->
+  <ellipse rx="16" ry="15" fill="#00aa22"/>
+  <!-- pupil -->
+  <circle r="9" fill="#000d00"/>
+  <!-- reflection dot big -->
+  <circle cx="-6" cy="-6" r="4" fill="#aaffcc" opacity="0.9"/>
+  <!-- reflection dot small -->
+  <circle cx="5" cy="5" r="1.8" fill="#66ffaa" opacity="0.65"/>
+  <!-- eyelid: ry stays 0 (open), snaps to 28 on blink -->
+  <ellipse rx="40" ry="0" fill="#000000">
+    <animate attributeName="ry"
+      values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28;0;28;0;0;0;0;0;0;0;0;0"
+      dur="6s" calcMode="discrete" repeatCount="indefinite"/>
+  </ellipse>
+</g>
+
+<!-- ════ EYE 2 (RIGHT) ════ -->
+<g transform="translate(198,138)">
+  <ellipse rx="42" ry="30" fill="none" stroke="#00ff41" stroke-width="1.5" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.35;0.18" dur="2.5s" begin="0.1s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse rx="38" ry="26" fill="#001200"/>
+  <ellipse rx="24" ry="22" fill="#003d00"/>
+  <ellipse rx="16" ry="15" fill="#00aa22"/>
+  <circle r="9" fill="#000d00"/>
+  <circle cx="-6" cy="-6" r="4" fill="#aaffcc" opacity="0.9"/>
+  <circle cx="5" cy="5" r="1.8" fill="#66ffaa" opacity="0.65"/>
+  <ellipse rx="40" ry="0" fill="#000000">
+    <animate attributeName="ry"
+      values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28;0;28;0;0;0;0;0;0;0;0;0"
+      dur="6s" calcMode="discrete" begin="0.08s" repeatCount="indefinite"/>
+  </ellipse>
+</g>
+
+<!-- Face details -->
+<text x="145" y="183" text-anchor="middle" fill="#00ff41" font-size="14" font-family="monospace" opacity="0.55">^</text>
+<text x="145" y="204" text-anchor="middle" fill="#00ff41" font-size="13" font-family="monospace" opacity="0.45"> ╌╌╌ </text>
+
+<!-- ════════════ DIVIDER ════════════ -->
+<line x1="268" y1="18" x2="268" y2="266" stroke="#00ff41" stroke-width="0.6" opacity="0.2"/>
+<line x1="270" y1="18" x2="270" y2="266" stroke="#00ff41" stroke-width="0.2" opacity="0.1"/>
+
+<!-- ════════════ RIGHT PANEL: INFO ════════════ -->
+
+<!-- Name -->
+<text x="292" y="62" fill="#00ff41" font-size="40" font-family="'Courier New', Courier, monospace" font-weight="bold" letter-spacing="5" opacity="0.95">NITIN</text>
+
+<!-- Tagline -->
+<text x="295" y="90" fill="#00cc33" font-size="13.5" font-family="monospace">
+  Data Analyst  ──►  Data Engineer
+</text>
+
+<!-- Separator line -->
+<line x1="292" y1="104" x2="846" y2="104" stroke="#00ff41" stroke-width="0.5" opacity="0.25"/>
+
+<!-- Info rows -->
+<text x="292" y="126" fill="#004d00" font-size="11.5" font-family="monospace">$  location  ./  Delhi, India  │  Remote-ready  │  Hybrid-open</text>
+<text x="292" y="146" fill="#004d00" font-size="11.5" font-family="monospace">$  exp       ./  1.5 yrs Analytics  +  Active DE Build</text>
+<text x="292" y="166" fill="#004d00" font-size="11.5" font-family="monospace">$  stack     ./  SQL │ Python │ Airflow │ dbt │ PySpark</text>
+<text x="292" y="186" fill="#004d00" font-size="11.5" font-family="monospace">$  projects  ./  E-Commerce │ Retail DW │ Bike Store DB</text>
+<text x="292" y="206" fill="#004d00" font-size="11.5" font-family="monospace">$  status    ./  </text>
+
+<!-- OPEN TO WORK badge (animated) -->
+<rect x="438" y="193" width="128" height="18" rx="3" fill="#001a00" stroke="#00ff41" stroke-width="0.8">
+  <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+</rect>
+<text x="502" y="206" text-anchor="middle" fill="#00ff41" font-size="10" font-family="monospace">
+  ● OPEN TO WORK
+  <animate attributeName="opacity" values="0.7;1;0.7" dur="1.8s" repeatCount="indefinite"/>
+</text>
+
+<!-- Separator line -->
+<line x1="292" y1="222" x2="846" y2="222" stroke="#00ff41" stroke-width="0.5" opacity="0.25"/>
+
+<!-- DE Progress bar -->
+<text x="292" y="240" fill="#003a00" font-size="10.5" font-family="monospace">DE Journey</text>
+<rect x="376" y="228" width="220" height="14" fill="#001000" rx="3" stroke="#003300" stroke-width="0.5"/>
+<rect x="376" y="228" width="154" height="14" fill="none" rx="3">
+  <animate attributeName="width" from="0" to="154" dur="2.5s" fill="freeze"/>
+  <animate attributeName="fill" from="#003300" to="#00ff41" dur="2.5s" fill="freeze"/>
+</rect>
+<!-- progress fill static fallback -->
+<rect x="376" y="228" width="154" height="14" fill="#00cc33" rx="3" opacity="0.5"/>
+<rect x="376" y="228" width="154" height="14" fill="#00ff41" rx="3" opacity="0.3"/>
+<text x="604" y="240" fill="#00cc33" font-size="10.5" font-family="monospace">70%  →  Full DE</text>
+
+<!-- Cert badges row -->
+<rect x="292" y="253" width="62" height="15" rx="3" fill="#001500" stroke="#003d00" stroke-width="0.6"/>
+<text x="323" y="264" text-anchor="middle" fill="#009922" font-size="8.5" font-family="monospace">Google DA</text>
+<rect x="360" y="253" width="60" height="15" rx="3" fill="#001500" stroke="#003d00" stroke-width="0.6"/>
+<text x="390" y="264" text-anchor="middle" fill="#009922" font-size="8.5" font-family="monospace">PL-300 BI</text>
+<rect x="426" y="253" width="76" height="15" rx="3" fill="#001500" stroke="#003d00" stroke-width="0.6"/>
+<text x="464" y="264" text-anchor="middle" fill="#009922" font-size="8.5" font-family="monospace">HackerRank 🥇</text>
+
+<!-- Blinking cursor -->
+<rect x="292" y="269" width="8" height="13" fill="#00ff41">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Right corner bracket -->
+<text x="820" y="270" fill="#004400" font-size="11" font-family="monospace">─┘</text>
+
+</svg>
