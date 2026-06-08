@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:00ff41&height=220&section=header&text=NITIN&fontSize=72&fontColor=00ff41&fontAlignY=38&desc=Data%20Analyst%20%E2%86%92%20Data%20Engineer%20%7C%20Building%20Real%20Pipelines&descAlignY=58&descSize=16&animation=fadeIn&fontFamily=monospace" width="100%"/>
+<img src="./assets/banner.svg" alt="Nitin — Data Analyst to Data Engineer" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+--+Data+Analyst+with+Engineering+Ambition;%24+stack+--+SQL+%7C+Python+%7C+Airflow+%7C+dbt+%7C+PySpark;%24+status+--+Actively+building+production+pipelines;%24+goal+--+DE+roles+%7C+Open+to+Remote+%26+Hybrid;%24+grep+-i+%22hunger%22+nitin.log+--+MATCH+FOUND" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=%24+whoami+--+Data+Analyst+with+Engineering+Ambition;%24+stack+--+SQL+%7C+Python+%7C+Airflow+%7C+dbt+%7C+PySpark;%24+status+--+Actively+building+production-grade+pipelines;%24+goal+--+DE+roles+%7C+Remote+%26+Hybrid+open;%24+grep+-i+%22hunger%22+nitin.log+%3E%3E+MATCH+FOUND" alt="Typing SVG"/>
 
 </div>
 
@@ -12,17 +12,17 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                         SYSTEM PROFILE :: NITIN.EXE                          ║
+║                         SYSTEM PROFILE :: NITIN.EXE                         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  ROLE       │ Data Analyst → Data Engineer (transition in progress)          ║
-║  EXP        │ 1.5 years analytics + actively building DE stack               ║
-║  STACK      │ SQL, Python (PySpark/Pandas), Power BI, Tableau                ║
-║  PROJECTS   │ Medallion ETL Pipeline, Hospital Mgmt DB (SQL)                 ║
-║  LOCATION   │ Delhi, India │ Remote-ready │ Hybrid-open                      ║
-║  SEEKING    │ DA & DE Roles │ Real problems, not toy datasets                ║
-║  MOTTO      │ "Not just dashboards - pipelines that actually run."           ║
+║  ROLE       │ Data Analyst → Data Engineer (transition in progress)         ║
+║  EXP        │ 1.5 years analytics + actively building DE stack              ║
+║  STACK      │ SQL · Python (PySpark/Pandas) · Airflow · dbt · Power BI     ║
+║  PROJECTS   │ E-Commerce ETL · Retail DW · Bike Store DB · Airflow+dbt     ║
+║  LOCATION   │ Delhi, India  │  Remote-ready  │  Hybrid-open                ║
+║  SEEKING    │ DA & DE Roles │ Real problems, not toy datasets               ║
+║  MOTTO      │ "Not just dashboards — pipelines that actually run."         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  PIPELINE   │ [█████████████████████████░░░░░░░░░░]  70% to full DE          ║
+║  DE PIPELINE  [████████████████░░░░░░░░░░░░]  70%  →  Full Stack Engineer  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -58,8 +58,10 @@ APPROACH="Learn by building real things, not just following tutorials"
 OPEN_TO="Data Analyst & Data Engineer roles"
 
 echo "[✔] Analyst foundations: SQL, Python, Power BI, EDA"
-echo "[✔] First real project shipped: E-Commerce Analytics Pipeline"
-echo "[⚡] Currently: Expanding into Airflow orchestration + dbt transforms"
+echo "[✔] Relational DB design: Hospital Mgmt + Bike Store DB shipped"
+echo "[✔] Data warehousing: Retail DW — star schema, dimensional model"
+echo "[✔] First pipeline shipped: E-Commerce Analytics (PostgreSQL → DuckDB)"
+echo "[⚡] Currently: Airflow orchestration + dbt medallion transforms"
 echo "[⏳] Next: Kafka streaming + cloud deployment on AWS"
 echo "[🎯] End goal: Full-stack data engineer who understands the business"
 ```
@@ -115,14 +117,14 @@ echo "[🎯] End goal: Full-stack data engineer who understands the business"
 
 ```
 PIPELINE ARCHITECTURE:
-─────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────
  Raw CSVs  ──►  PostgreSQL  ──►  Python/Pandas  ──►  DuckDB
-   (src)       (ingestion)       (clean+dedupe)    (OLAP queries)
-                                                        │
-                                                        ▼
-                                               Seaborn + Matplotlib
-                                               (visual storytelling)
-─────────────────────────────────────────────────────────────
+   (src)       (ingestion)      (clean+dedupe)     (OLAP queries)
+                                                         │
+                                                         ▼
+                                                Seaborn + Matplotlib
+                                                (visual storytelling)
+──────────────────────────────────────────────────────────────────
 ```
 
 **What makes this real:**
@@ -140,22 +142,78 @@ PIPELINE ARCHITECTURE:
 
 ---
 
-### ⚡ Airflow + dbt ETL Pipeline *(In Progress)*
+### 🏪 Retail Data Warehouse
+**`[STATUS: SHIPPED ✔]`** &nbsp;|&nbsp; [View Repo →](https://github.com/Nitinx12/Retail_data_warehouse)
+
+```
+WAREHOUSE ARCHITECTURE:
+──────────────────────────────────────────────────────────────────
+ Source Data  ──►  Staging Layer  ──►  Dimensional Model
+  (raw retail)     (clean/conform)      (Star Schema)
+                                              │
+                              ┌───────────────┼───────────────┐
+                              ▼               ▼               ▼
+                          Fact Table    Dim: Product    Dim: Customer
+                         (fact_sales)   Dim: Store      Dim: Date
+──────────────────────────────────────────────────────────────────
+```
+
+**What makes this real:**
+- Star schema dimensional model built for analytical query performance
+- Proper fact and dimension table separation following Kimball methodology
+- Slowly Changing Dimensions (SCD) handling for historical accuracy
+- Designed to plug directly into BI tools like Power BI or Tableau
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+### 🚲 Bike Store Relational Database
+**`[STATUS: SHIPPED ✔]`** &nbsp;|&nbsp; [View Repo →](https://github.com/Nitinx12/Bike-Store-Relational-Database)
+
+```
+SCHEMA DESIGN:
+──────────────────────────────────────────────────────────────────
+ Business Requirements  ──►  ERD Design  ──►  Normalized Schema
+       (analysis)             (entities)        (3NF tables)
+                                                     │
+                                  ┌──────────────────┤
+                                  ▼                  ▼
+                             Stored Procs         Indexes
+                             + Triggers          + Views
+──────────────────────────────────────────────────────────────────
+```
+
+**What makes this real:**
+- Full relational design: customers, orders, products, staff, stores, inventory
+- Normalized to 3NF — no data anomalies, enforced referential integrity
+- Stored procedures and triggers for business logic at the DB layer
+- Window functions and JOIN-heavy queries for real analytical reporting
+
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/T--SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### ⚡ Airflow + dbt Medallion ETL Pipeline *(In Progress)*
 **`[STATUS: BUILDING 🔧]`**
 
 ```
 PLANNED ARCHITECTURE:
-─────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────
  CSV / PostgreSQL  ──►  Airflow DAGs  ──►  dbt Transforms
-      (sources)         (orchestrate)      (bronze→silver→gold)
-                                                   │
-                                                   ▼
-                                           Power BI Dashboard
-                                           (business insights)
-─────────────────────────────────────────────────────────────
+      (sources)         (orchestrate)       (Bronze → Silver → Gold)
+                                                    │
+                                                    ▼
+                                            Power BI Dashboard
+                                            (business insights)
+──────────────────────────────────────────────────────────────────
 ```
 
-Full medallion architecture. Airflow handling scheduling, dbt handling transformation logic, Power BI at the output layer. Watch this repo.
+Full medallion architecture. Airflow handling scheduling and orchestration, dbt handling all transformation logic with tests and documentation, Power BI at the output layer. Watch this repo.
 
 ---
 
@@ -163,7 +221,7 @@ Full medallion architecture. Airflow handling scheduling, dbt handling transform
 **`[STATUS: QUEUED 🟡]`**
 
 ```
-Kafka Producer → Kafka Topics → PySpark Streaming → PostgreSQL/Delta
+Kafka Producer → Kafka Topics → PySpark Streaming → PostgreSQL / Delta Lake
 ```
 
 Event-driven pipeline with real-time processing. The step that separates analysts from engineers.
@@ -176,25 +234,30 @@ Event-driven pipeline with real-time processing. The step that separates analyst
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                        SKILL ACQUISITION LOG :: 2026                         ║
-╠══════════════════════╦════════════════════════════╦══════════╦═══════════════╣
-║ TRACK                ║ FOCUS AREAS                ║ PROGRESS ║ STATUS        ║
-╠══════════════════════╬════════════════════════════╬══════════╬═══════════════╣
-║ Data Engineering     ║ PySpark                    ║          ║               ║
-║                      ║ SQLAlchemy                 ║ ▓▓▓▓▓▓░░ ║ ⚡ ACTIVE     ║    
-║                      ║ Airflow                    ║   75%    ║               ║
-║                      ║ dbt                        ║          ║               ║
-║                      ║ Medallion Architecture     ║          ║               ║
-╠══════════════════════╬════════════════════════════╬══════════╬═══════════════╣
-║ Advanced Analytics   ║ Advanced SQL               ║          ║               ║
-║                      ║ Pandas                     ║ ▓▓▓▓▓▓▓▓ ║ ✅ SOLID      ║
-║                      ║ Power BI                   ║   95%    ║               ║
-║                      ║ Tableau                    ║          ║               ║
-║                      ║ MySQL / PostgreSQL         ║          ║               ║
-╠══════════════════════╬════════════════════════════╬══════════╬═══════════════╣
-║ Cloud Infrastructure ║ AWS (S3, Glue, Athena,     ║ ▓▓░░░░░░ ║ 🟢 SCOUTING   ║
-║                      ║ Redshift, IAM, Lambda)     ║   25%    ║               ║
-╚══════════════════════╩════════════════════════════╩══════════╩═══════════════╝
+║                        SKILL ACQUISITION LOG :: 2026                        ║
+╠══════════════════════╦════════════════════════════╦══════════╦══════════════╣
+║ TRACK                ║ FOCUS AREAS                ║ PROGRESS ║ STATUS       ║
+╠══════════════════════╬════════════════════════════╬══════════╬══════════════╣
+║ Data Engineering     ║ PySpark                    ║          ║              ║
+║                      ║ SQLAlchemy                 ║ ▓▓▓▓▓▓░░ ║ ⚡ ACTIVE    ║
+║                      ║ Airflow                    ║   75%    ║              ║
+║                      ║ dbt                        ║          ║              ║
+║                      ║ Medallion Architecture     ║          ║              ║
+╠══════════════════════╬════════════════════════════╬══════════╬══════════════╣
+║ Advanced Analytics   ║ Advanced SQL               ║          ║              ║
+║                      ║ Pandas                     ║ ▓▓▓▓▓▓▓▓ ║ ✅ SOLID     ║
+║                      ║ Power BI                   ║   95%    ║              ║
+║                      ║ Tableau                    ║          ║              ║
+║                      ║ MySQL / PostgreSQL         ║          ║              ║
+╠══════════════════════╬════════════════════════════╬══════════╬══════════════╣
+║ DB Design            ║ Dimensional Modeling       ║          ║              ║
+║                      ║ Star / Snowflake Schema    ║ ▓▓▓▓▓▓░░ ║ ✅ SHIPPED   ║
+║                      ║ 3NF Normalization          ║   80%    ║              ║
+║                      ║ SCD / Slowly Changing Dims ║          ║              ║
+╠══════════════════════╬════════════════════════════╬══════════╬══════════════╣
+║ Cloud Infrastructure ║ AWS (S3, Glue, Athena,     ║ ▓▓░░░░░░ ║ 🟢 SCOUTING  ║
+║                      ║ Redshift, IAM, Lambda)     ║   25%    ║              ║
+╚══════════════════════╩════════════════════════════╩══════════╩══════════════╝
 ```
 
 <br/>
@@ -244,8 +307,6 @@ Event-driven pipeline with real-time processing. The step that separates analyst
 <div align="center">
   <img src="https://github.com/Nitinx12/Nitinx12/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
-
-> **⚠️ To enable the snake:** Create a GitHub Actions workflow in `.github/workflows/snake.yml` — happy to write it for you.
 
 <br/>
 
