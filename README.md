@@ -31,17 +31,17 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
-│   RAW INPUT          TRANSFORM            MODEL             OUTPUT      │
+│   RAW INPUT           TRANSFORM           MODEL             OUTPUT      │
 │                                                                         │
-│  ┌──────────┐      ┌──────────┐       ┌──────────┐      ┌──────────┐   │
-│  │  Nitin   │─────▶│ Analyst  │──────▶│ Engineer │─────▶│Decisions │   │
-│  │          │      │          │       │ (in prog)│      │    not   │   │
-│  │ ~1yr exp │      │SQL·Python│       │ETL·Airflow      │dashboards│   │
-│  │ & growing│      │Power BI  │       │Docker·dbt│      │          │   │
-│  └──────────┘      └──────────┘       └──────────┘      └──────────┘   │
-│       ✅                ✅             ⚡ BUILDING          🎯 GOAL     │
+│  ┌──────────┐       ┌──────────┐       ┌──────────┐       ┌──────────┐  │
+│  │  Nitin   │──────>│ Analyst  │──────>│ Engineer │──────>│ Decisions│  │
+│  │          │       │          │       │(In Prog) │       │   Not    │  │
+│  │ ~1yr exp │       │SQL·Python│       │ PySpark  │       │Dashboards│  │
+│  │& growing │       │ Power BI │       │Medallion │       │(Product) │  │
+│  └──────────┘       └──────────┘       └──────────┘       └──────────┘  │
+│       ✅                 ✅              ⚡ BUILDING         🎯 GOAL  │  
 │                                                                         │
-│   PIPELINE STATUS ──────────────────────────────────────── [RUNNING]   │
+│  PIPELINE STATUS ────────────────────────────────────────── [RUNNING]   │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
