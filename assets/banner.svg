@@ -179,7 +179,7 @@
 
 <!-- Tagline -->
 <text x="295" y="90" fill="#00cc33" font-size="13.5" font-family="monospace">
-  Data Analyst  ──►  Data Engineer
+  Data Analyst  ·  SQL  ·  Python  ·  Power BI
 </text>
 
 <!-- Separator line -->
@@ -187,9 +187,9 @@
 
 <!-- Info rows -->
 <text x="292" y="126" fill="#004d00" font-size="11.5" font-family="monospace">$  location  ./  Delhi, India  │  Remote-ready  │  Hybrid-open</text>
-<text x="292" y="146" fill="#004d00" font-size="11.5" font-family="monospace">$  exp       ./  1.5 yrs Analytics  +  Active DE Build</text>
-<text x="292" y="166" fill="#004d00" font-size="11.5" font-family="monospace">$  stack     ./  SQL │ Python │ Airflow │ dbt │ PySpark</text>
-<text x="292" y="186" fill="#004d00" font-size="11.5" font-family="monospace">$  projects  ./  E-Commerce │ Retail DW │ Bike Store DB</text>
+<text x="292" y="146" fill="#004d00" font-size="11.5" font-family="monospace">$  exp       ./  2+ yrs  │  Bajaj Allianz  │  Medianama</text>
+<text x="292" y="166" fill="#004d00" font-size="11.5" font-family="monospace">$  stack     ./  SQL  │  Python  │  Power BI  │  PostgreSQL</text>
+<text x="292" y="186" fill="#004d00" font-size="11.5" font-family="monospace">$  impact    ./  40% less manual work  │  5+ data sources</text>
 <text x="292" y="206" fill="#004d00" font-size="11.5" font-family="monospace">$  status    ./  </text>
 
 <!-- OPEN TO WORK badge (animated) -->
@@ -204,17 +204,12 @@
 <!-- Separator line -->
 <line x1="292" y1="222" x2="846" y2="222" stroke="#00ff41" stroke-width="0.5" opacity="0.25"/>
 
-<!-- DE Progress bar -->
-<text x="292" y="240" fill="#003a00" font-size="10.5" font-family="monospace">DE Journey</text>
+<!-- Analytics proficiency bar -->
+<text x="292" y="240" fill="#003a00" font-size="10.5" font-family="monospace">Analytics</text>
 <rect x="376" y="228" width="220" height="14" fill="#001000" rx="3" stroke="#003300" stroke-width="0.5"/>
-<rect x="376" y="228" width="154" height="14" fill="none" rx="3">
-  <animate attributeName="width" from="0" to="154" dur="2.5s" fill="freeze"/>
-  <animate attributeName="fill" from="#003300" to="#00ff41" dur="2.5s" fill="freeze"/>
-</rect>
-<!-- progress fill static fallback -->
-<rect x="376" y="228" width="154" height="14" fill="#00cc33" rx="3" opacity="0.5"/>
-<rect x="376" y="228" width="154" height="14" fill="#00ff41" rx="3" opacity="0.3"/>
-<text x="604" y="240" fill="#00cc33" font-size="10.5" font-family="monospace">70%  →  Full DE</text>
+<rect x="376" y="228" width="198" height="14" fill="#00cc33" rx="3" opacity="0.5"/>
+<rect x="376" y="228" width="198" height="14" fill="#00ff41" rx="3" opacity="0.3"/>
+<text x="604" y="240" fill="#00cc33" font-size="10.5" font-family="monospace">90%  ✔</text>
 
 <!-- Cert badges row -->
 <rect x="292" y="253" width="62" height="15" rx="3" fill="#001500" stroke="#003d00" stroke-width="0.6"/>
