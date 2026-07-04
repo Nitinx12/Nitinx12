@@ -2,160 +2,84 @@
   <img src="./assets/banner.svg" width="100%" alt="Nitin Kumar Sharma — Data Analyst"/>
 </div>
 
-<br/>
+<h1 align="center">Nitin Kumar Sharma</h1>
+<p align="center">Data Analyst · SQL · Python · Power BI</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-k-220651351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Nitin321x@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nitinx12.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About
+
+Data Analyst with 2+ years of experience building dashboards and data pipelines for business teams. I work across the full analytics cycle — extraction, SQL transformation, Power BI reporting, and stakeholder delivery.
+
+Currently pursuing an **MBA in Finance** at the University of Delhi.
+
+- 📍 Delhi, India · Remote-ready · Hybrid-open
+- 💼 Open to Data Analyst roles
+- 🎓 MBA Finance · BCom (Accountancy), University of Delhi
+- 📊 Delivered up to 40% reduction in manual reporting across 5+ data sources
+
+---
+
+## Skills
+
+**Languages & Analytics:** Python · SQL · Pandas · NumPy
+**Visualization & BI:** Power BI · Excel
+**Databases:** PostgreSQL · MySQL · DuckDB
+**Data Engineering:** Apache Airflow · dbt · Databricks · Git · GitHub
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [E-Commerce Sales Analytics](https://github.com/Nitinx12/End-to-End-E-Commerce-Sales-Analytics) | End-to-end pipeline: raw CSVs → PostgreSQL → Python clean → DuckDB OLAP → visuals | PostgreSQL · Python · DuckDB · SQLAlchemy |
+| [Retail Data Warehouse](https://github.com/Nitinx12/Retail_data_warehouse) | Star schema dimensional model with fact/dim separation and SCD handling | PostgreSQL · SQL · Power BI |
+| [Databricks Medallion Warehouse](https://github.com/Nitinx12/Databricks_Medallion_Warehouse) | Airflow + dbt pipeline across Bronze → Silver → Gold layers | Databricks · Airflow · dbt |
+| [Bike Store Relational Database](https://github.com/Nitinx12/Bike-Store-Relational-Database) | Unstructured data normalized into a 9-table schema with stored procs, triggers & views | PostgreSQL · SQL |
+
+---
+
+## Certifications
+
+- Google Data Analytics Professional Certificate
+- Microsoft PL-300: Power BI Data Analyst
+- HackerRank SQL (Gold)
+- Advanced Excel — IIAT
+
+---
+
+## GitHub Stats
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;2%2B+Years+%7C+Bajaj+Allianz+%C2%B7+Medianama;Turning+raw+data+into+decisions+that+matter;Open+to+Data+Analyst+Roles+%F0%9F%9A%80)](https://github.com/Nitinx12)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitinx12&show_icons=true&hide_border=true&count_private=true&theme=default" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&hide_border=true&theme=default&lang_count=6" height="160"/>
 </div>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-k-220651351/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nitin321x@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://nitinx12.github.io)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-DA_%26_Analytics_Roles-00ff41?style=for-the-badge&labelColor=001a00)](https://www.linkedin.com/in/nitin-k-220651351/)
-
-</div>
-
----
-
-## `$ whoami`
-
-**Data Analyst** with 2+ years of experience building dashboards and data pipelines that business teams actually use. I work across the full analytics cycle — raw extraction, SQL transformation, Power BI reporting, and stakeholder delivery.
-
-Currently pursuing my **MBA in Finance** at the University of Delhi, bridging the gap between data and business strategy.
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│ 📍 Location    Delhi, India · Remote-ready · Hybrid-open               │
-│ 💼 Seeking     Data Analyst roles                                      │
-│ 🎓 Education   MBA Finance · BCom (Accountancy) · University of Delhi  │
-│ 📊 Impact      40% reduction in manual reporting · 5+ data sources     │
-│ ⚽ Football    CRPF Camp Team · Subroto Cup Runners-Up                 │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ ls ./tech-stack/`
-
-**Languages & Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Data Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-
-**Data Engineering & Tools**
-
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## `$ cat ./experience.log`
-
-<details open>
-<summary><b>🏢 Medianama &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Jun 2024 – Feb 2025</b></summary>
-<br/>
-
-> Joined as the sole analyst — owned the full reporting stack from raw data to executive dashboards.
-
-| Metric | Result |
-|--------|--------|
-| Manual reporting time | ↓ **40%** via Power BI automation |
-| Data sources integrated | **5+** into a single PostgreSQL star schema |
-| Stakeholder dashboards | Real-time Power BI with live refresh |
-
-- Extracted and cleaned data from 5+ disparate sources, built a normalized star schema in PostgreSQL, and connected it directly to Power BI for consistent, automated reporting
-- Created Excel performance dashboards used by the editorial team to produce data-driven business articles
-- Reduced end-to-end reporting cycle from manual to automated, freeing analyst time for deeper analysis
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🏢 Bajaj Allianz General Insurance &nbsp;·&nbsp; Data Analyst Intern &nbsp;·&nbsp; May 2023 – Jan 2024</b></summary>
-<br/>
-
-> Built reporting infrastructure used by senior financial leadership across 15+ insurance products.
-
-| Metric | Result |
-|--------|--------|
-| Manual reporting time | ↓ **25%** via Power BI automation |
-| Insurance products analyzed | **15+** (SWT, ULIP, E-Touch II, AWG Platinum…) |
-| Pipeline cadence | Monthly PostgreSQL pipelines, fact-dimension models |
-
-- Automated Power BI dashboard for senior financial leadership enabling detailed analysis of customer insurance policies
-- Built fact-dimension data models in PostgreSQL to support scalable, repeatable BI reporting
-- Analyzed cross-product customer data to surface win-back opportunities that improved conversion and revenue
-
-</details>
-
----
-
-## `$ ls ./projects/`
-
-| # | Project | What It Does | Stack | Status |
-|---|---------|-------------|-------|--------|
-| 01 | [**E-Commerce Sales Analytics**](https://github.com/Nitinx12/End-to-End-E-Commerce-Sales-Analytics) | End-to-end pipeline: raw CSVs → PostgreSQL → Python clean → DuckDB OLAP → Seaborn visuals | PostgreSQL · Python · DuckDB · SQLAlchemy | ✅ Shipped |
-| 02 | [**Retail Data Warehouse**](https://github.com/Nitinx12/Retail_data_warehouse) | Star schema dimensional model with fact/dim separation, SCD handling, BI-ready output | PostgreSQL · SQL · Power BI | ✅ Shipped |
-| 03 | [**Databricks Medallion Warehouse**](https://github.com/Nitinx12/Databricks_Medallion_Warehouse) | Production Airflow + dbt pipeline across Bronze → Silver → Gold layers | Databricks · Airflow · dbt | ✅ Shipped |
-| 04 | [**Bike Store Relational Database**](https://github.com/Nitinx12/Bike-Store-Relational-Database) | Unstructured data → 9-table normalized schema with stored procs, triggers & views | PostgreSQL · SQL | ✅ Shipped |
-
----
-
-## `$ cat ./certifications.txt`
-
-![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power_BI_Analyst-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-![HackerRank SQL Gold](https://img.shields.io/badge/HackerRank_SQL_Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
-![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-IIAT-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-## `$ github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nitinx12&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&lang_count=6" height="160"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinx12&hide_border=true&theme=default" height="150"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinx12&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&currStreakNum=00ff41&sideNums=00cc33&dates=005500&stroke=00ff41" height="150"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinx12&bg_color=000000&color=00ff41&line=00cc33&point=00ff41&area=true&hide_border=true&area_color=001a00" width="95%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinx12&hide_border=true&theme=minimal" width="95%"/>
 </div>
 
 ---
 
-## `$ snake --run`
+## Contribution Snake
 
 <div align="center">
 
@@ -169,20 +93,16 @@ Currently pursuing my **MBA in Finance** at the University of Delhi, bridging th
 
 ---
 
-<div align="center">
+<p align="center">Open to Data Analyst roles — let's connect.</p>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   $ echo "Open to Data Analyst roles. Let's talk data."          ║
-║   > Open to Data Analyst roles. Let's talk data.                 ║
-║   $ _                                                            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-k-220651351/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nitin321x@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://nitinx12.github.io)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=100&section=footer"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-k-220651351/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Nitin321x@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nitinx12.github.io">
+    <img src="https://img.shields.io/badge/View_Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
