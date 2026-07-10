@@ -69,48 +69,6 @@ Currently pursuing my **MBA in Finance** at the University of Delhi, bridging th
 
 ---
 
-## `$ cat ./experience.log`
-
-<details open>
-<summary><b>🏢 Medianama &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Jun 2024 – Feb 2025</b></summary>
-<br/>
-
-> Joined as the sole analyst — owned the full reporting stack from raw data to executive dashboards.
-
-| Metric | Result |
-|--------|--------|
-| Manual reporting time | ↓ **40%** via Power BI automation |
-| Data sources integrated | **5+** into a single PostgreSQL star schema |
-| Stakeholder dashboards | Real-time Power BI with live refresh |
-
-- Extracted and cleaned data from 5+ disparate sources, built a normalized star schema in PostgreSQL, and connected it directly to Power BI for consistent, automated reporting
-- Created Excel performance dashboards used by the editorial team to produce data-driven business articles
-- Reduced end-to-end reporting cycle from manual to automated, freeing analyst time for deeper analysis
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🏢 Bajaj Allianz General Insurance &nbsp;·&nbsp; Data Analyst Intern &nbsp;·&nbsp; May 2023 – Jan 2024</b></summary>
-<br/>
-
-> Built reporting infrastructure used by senior financial leadership across 15+ insurance products.
-
-| Metric | Result |
-|--------|--------|
-| Manual reporting time | ↓ **25%** via Power BI automation |
-| Insurance products analyzed | **15+** (SWT, ULIP, E-Touch II, AWG Platinum…) |
-| Pipeline cadence | Monthly PostgreSQL pipelines, fact-dimension models |
-
-- Automated Power BI dashboard for senior financial leadership enabling detailed analysis of customer insurance policies
-- Built fact-dimension data models in PostgreSQL to support scalable, repeatable BI reporting
-- Analyzed cross-product customer data to surface win-back opportunities that improved conversion and revenue
-
-</details>
-
----
-
 ## `$ ls ./projects/`
 
 | # | Project | What It Does | Stack | Status |
