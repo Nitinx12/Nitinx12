@@ -1,10 +1,12 @@
-<h1 align="center">Hi, I'm Nitin Kumar Sharma 👋</h1>
-<h3 align="center">Analytics Engineer | Data Analyst | Power BI Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00CC33&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nitin+Kumar+Sharma;Analytics+Engineer;Data+Analyst+%7C+Power+BI+Developer;Turning+raw+data+into+decisions" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:Nitin321x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nitinx12&style=for-the-badge&color=00cc33&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -20,6 +22,10 @@ I care about data that's trustworthy, fast, and easy for stakeholders to act on 
 ---
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,git,github,vscode&theme=dark" />
+</p>
 
 **Analytics Engineering & Data Modeling**
 <p>
@@ -75,17 +81,23 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitinx12&show_icons=true&theme=react&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitinx12&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&theme=react&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinx12&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Nitinx12&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinx12&theme=react-dark&hide_border=true" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nitinx12&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+> 💡 **Note on the widgets above:** the stats/streak/trophy cards are rendered live by free third-party services (`github-readme-stats`, `streak-stats`, `github-profile-trophy`). They occasionally show a broken-image icon if that service is mid-deploy or hits its free quota — a refresh of the page or a few minutes' wait usually fixes it. This is a known limitation of these community-hosted APIs, not an issue with the repo itself.
 
 ---
 
@@ -98,6 +110,8 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
     <img alt="github-snake" src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/dist/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+> ⚠️ **This will look broken until you push `snake.yml` to your actual `Nitinx12/Nitinx12` repo and let the Action run once.** It builds an `output` branch containing the SVGs — the image link above only resolves after that branch exists. Check the **Actions** tab after pushing to confirm the "Generate Snake Animation" workflow ran successfully.
 
 ---
 
