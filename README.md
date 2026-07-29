@@ -81,7 +81,7 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitinx12&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitinx12&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&theme=react&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
@@ -97,11 +97,13 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
   <img src="https://github-profile-trophy.vercel.app/?username=Nitinx12&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-> 💡 **Note on the widgets above:** the stats/streak/trophy cards are rendered live by free third-party services (`github-readme-stats`, `streak-stats`, `github-profile-trophy`). They occasionally show a broken-image icon if that service is mid-deploy or hits its free quota — a refresh of the page or a few minutes' wait usually fixes it. This is a known limitation of these community-hosted APIs, not an issue with the repo itself.
+> 💡 **Note on the widgets above:** the stats/streak/trophy cards are rendered live by free third-party services (`github-readme-stats`, `streak-stats`, `github-profile-trophy`). They occasionally show a broken-image icon if that service is mid-deploy or hits its free quota — a refresh of the page or a few minutes' wait usually fixes it. If the stats card specifically keeps breaking, the most reliable long-term fix is deploying your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to Vercel (free, ~5 minutes) and swapping the domain in the URLs above to your own — this removes you from the shared instance's rate limits entirely.
 
 ---
 
 ### 🐍 Contribution Snake
+
+A snake that eats its way through my contribution graph, square by square, then loops back to the start and does it all again — powered by [Platane/snk](https://github.com/Platane/snk).
 
 <p align="center">
   <picture>
@@ -111,7 +113,16 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
   </picture>
 </p>
 
-> ⚠️ **This will look broken until you push `snake.yml` to your actual `Nitinx12/Nitinx12` repo and let the Action run once.** It builds an `output` branch containing the SVGs — the image link above only resolves after that branch exists. Check the **Actions** tab after pushing to confirm the "Generate Snake Animation" workflow ran successfully.
+<p align="center">
+  <img alt="github-snake-gif" src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/dist/github-contribution-grid-snake.gif" width="100%" />
+</p>
+
+> ⚠️ **Still broken? Check these three things, in order, on your real `Nitinx12/Nitinx12` repo:**
+> 1. **Actions tab** — open the "Generate Snake Animation" run. If it has a red ❌, click in and read the failed step's log.
+> 2. **Settings → Actions → General → Workflow permissions** — must be set to **"Read and write permissions."** If it's on "Read only," the job can run but can't push the `output` branch, and the snake images will 404 forever even though the workflow shows green.
+> 3. **Branches dropdown** — confirm an `output` branch actually exists after a successful run. If it's missing, the push step didn't complete.
+>
+> Once all three check out, the animation (and its GIF twin above) will load automatically — no README changes needed on your end.
 
 ---
 
