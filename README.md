@@ -103,18 +103,27 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 
 ### 🐍 Contribution Snake
 
-A snake that eats its way through my contribution graph, square by square, then loops back to the start and does it all again — powered by [Platane/snk](https://github.com/Platane/snk).
+A snake that eats its way through my GitHub contribution graph.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/dist/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <p align="center">
-  <img alt="github-snake-gif" src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/dist/github-contribution-grid-snake.gif" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.gif"
+    alt="GitHub Contribution Snake GIF"
+    width="100%">
 </p>
 
 > ⚠️ **Still broken? Check these three things, in order, on your real `Nitinx12/Nitinx12` repo:**
