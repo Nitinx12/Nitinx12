@@ -1,36 +1,41 @@
 name: Generate Snake Animation
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # Every 12 hours (UTC)
   workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 concurrency:
   group: snake-animation
   cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    permissions:
-      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation (matrix theme, light + dark)
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Nitinx12
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff41&color_dots=#001a00,#003300,#006622,#00b32d,#00ff41
-            dist/github-contribution-grid-snake.gif?color_snake=#00ff41&color_dots=#001a00,#003300,#006622,#00b32d,#00ff41
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300ff41&color_dots=%23001a00,%23003300,%23006622,%2300b32d,%2300ff41
+            dist/github-contribution-grid-snake.gif?color_snake=%2300ff41&color_dots=%23001a00,%23003300,%23006622,%2300b32d,%2300ff41
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
