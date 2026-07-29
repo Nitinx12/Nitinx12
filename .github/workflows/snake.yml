@@ -1,5 +1,4 @@
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,11 +6,9 @@ on:
   push:
     branches:
       - main
-
 concurrency:
   group: snake-animation
   cancel-in-progress: true
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,12 +16,13 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake animation (matrix theme, light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # dark variant: custom matrix-green snake and dot gradient
-          # light variant: falls back to the built-in github-light palette
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff41&color_dots=#001a00,#003300,#006622,#00b32d,#00ff41
