@@ -81,20 +81,11 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitinx12&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&theme=react&hide_border=true&cache_seconds=1800" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Nitinx12&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinx12&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitinx12&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 > 💡 **Note on the widgets above:** the stats/streak/trophy cards are rendered live by free third-party services (`github-readme-stats`, `streak-stats`, `github-profile-trophy`). They occasionally show a broken-image icon if that service is mid-deploy or hits its free quota — a refresh of the page or a few minutes' wait usually fixes it. If the stats card specifically keeps breaking, the most reliable long-term fix is deploying your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to Vercel (free, ~5 minutes) and swapping the domain in the URLs above to your own — this removes you from the shared instance's rate limits entirely.
