@@ -118,21 +118,6 @@ A snake that eats its way through my GitHub contribution graph.
       src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.gif"
-    alt="GitHub Contribution Snake GIF"
-    width="100%">
-</p>
-
-> ⚠️ **Still broken? Check these three things, in order, on your real `Nitinx12/Nitinx12` repo:**
-> 1. **Actions tab** — open the "Generate Snake Animation" run. If it has a red ❌, click in and read the failed step's log.
-> 2. **Settings → Actions → General → Workflow permissions** — must be set to **"Read and write permissions."** If it's on "Read only," the job can run but can't push the `output` branch, and the snake images will 404 forever even though the workflow shows green.
-> 3. **Branches dropdown** — confirm an `output` branch actually exists after a successful run. If it's missing, the push step didn't complete.
->
-> Once all three check out, the animation (and its GIF twin above) will load automatically — no README changes needed on your end.
-
 ---
 
 <p align="center"><i>Open to analytics engineering and data analyst roles — always happy to talk data modeling, pipelines, or BI.</i></p>
