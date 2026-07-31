@@ -13,11 +13,11 @@
 
 ### 🚀 About Me
 
-I build analytics-ready data platforms — from raw ingestion to dashboard-ready gold layers. My work spans **ETL/ELT pipeline design, dimensional data modeling, and BI development**, with a growing focus on modern analytics engineering practices like **medallion architecture, workflow orchestration, and transformation-as-code**.
+I build analytics-ready data platforms from raw ingestion to dashboard-ready gold layers. My work spans **ETL/ELT pipeline design, dimensional data modeling, and BI development**, with a growing focus on modern analytics engineering practices like **medallion architecture, workflow orchestration, and transformation-as-code**.
 
-I care about data that's trustworthy, fast, and easy for stakeholders to act on — whether that's a star schema powering a Power BI suite, or a dbt-modeled warehouse feeding downstream reports.
+I care about data that's trustworthy, fast, and easy for stakeholders to act on whether that's a star schema powering a Power BI suite, or a dbt-modeled warehouse feeding downstream reports.
 
-**Quick summary:** 1.5+ years turning messy, multi-source data into governed, automated reporting systems — cutting manual reporting effort by up to 40% and building pipelines that scale.
+**Quick summary:** 1.5+ years turning messy, multi-source data into governed, automated reporting systems cutting manual reporting effort by up to 40% and building pipelines that scale.
 
 ---
 
@@ -65,7 +65,7 @@ I care about data that's trustworthy, fast, and easy for stakeholders to act on 
 ### 📌 Featured Projects
 
 **[Databricks Medallion Warehouse](https://github.com/Nitinx12/Databricks_Medallion_Warehouse)**
-End-to-end medallion architecture in Databricks using Apache Airflow and dbt Core — automating data movement across Bronze, Silver, and Gold layers with reusable transformation models and validation checks.
+End-to-end medallion architecture in Databricks using Apache Airflow and dbt Core automating data movement across Bronze, Silver, and Gold layers with reusable transformation models and validation checks.
 
 **[Bike Store Relational Database & Analytics](https://github.com/Nitinx12/Bike-Store-Relational-Database)**
 PySpark incremental ETL pipeline from MongoDB to PostgreSQL with automated schema evolution and SQL-based data quality testing, plus 21 analytical SQL reports on sales, customers, and inventory.
@@ -74,7 +74,7 @@ PySpark incremental ETL pipeline from MongoDB to PostgreSQL with automated schem
 
 ### 💼 Work Summary
 
-Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allianz General Insurance) — building automated Power BI dashboards, SQL-based reporting pipelines, and star/fact-dimension data models in PostgreSQL for stakeholder and leadership reporting.
+Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allianz General Insurance) building automated Power BI dashboards, SQL-based reporting pipelines, and star/fact-dimension data models in PostgreSQL for stakeholder and leadership reporting.
 
 ---
 
