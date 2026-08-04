@@ -89,13 +89,6 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 </p>
 
 ---
-### 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&theme=react&hide_border=true&langs_count=8" />
-</p>
----
-
 ### 🐍 Contribution Snake
 
 A snake that eats its way through my GitHub contribution graph.
