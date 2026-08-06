@@ -70,6 +70,9 @@ End-to-end medallion architecture in Databricks using Apache Airflow and dbt Cor
 **[Bike Store Relational Database & Analytics](https://github.com/Nitinx12/Bike-Store-Relational-Database)**
 PySpark incremental ETL pipeline from MongoDB to PostgreSQL with automated schema evolution and SQL-based data quality testing, plus 21 analytical SQL reports on sales, customers, and inventory.
 
+**[Walmart Medallion Data Pipeline](https://github.com/Nitinx12/Walmart_DBT)**
+Production-style MongoDB → PostgreSQL → dbt pipeline with incremental PySpark extraction, a tested medallion warehouse (Bronze/Silver/Gold), orchestrated with Airflow and containerized with Docker.
+
 ---
 
 ### 💼 Work Summary
