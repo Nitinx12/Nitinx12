@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,dbt,docker,airflow,powerbi,git,github&perline=8" />
+  <img src="./analytics_engineer_orbit.gif" width="900">
 </p>
 
 <h1 align="center">
