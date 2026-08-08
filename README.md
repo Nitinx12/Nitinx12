@@ -83,18 +83,9 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 
 A snake that eats its way through my GitHub contribution graph.
 
+<!-- Snake Animation -->
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.svg">
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
