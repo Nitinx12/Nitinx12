@@ -1,9 +1,7 @@
+<h1 align="center">Hi, I'm Nitin 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Nitin%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00CC33&center=true&vCenter=true&width=480&lines=Analytics+Engineer;Turning+raw+data+into+decisions" />
+  <b>Analytics Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Power BI Developer</b><br/>
+  Turning raw data into decisions
 </p>
 
 <p align="center">
@@ -28,16 +26,16 @@ I care about data that's trustworthy, fast, and easy for stakeholders to act on 
 ### 🛠️ Tech Stack
 
 <p align="center">
-<marquee behavior="scroll" direction="left" scrollamount="6">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,kafka,aws,git,github,vscode,powershell,go&theme=dark" />
-  &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</marquee>
 </p>
 
 ---
@@ -61,11 +59,7 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 
 ---
 
-### 📊 GitHub Stats & Live Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&layout=compact&theme=react&hide_border=true&langs_count=8" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nitinx12&theme=react&hide_border=true" />
@@ -96,4 +90,4 @@ A snake that eats its way through my GitHub contribution graph.
 
 ---
 
-<p align="center"><i>Open to Analytics Engineering roles — always happy to talk data modeling, pipelines, or BI.</i></p>
+<p align="center"><i>Open to analytics engineering and data analyst roles — always happy to talk data modeling, pipelines, or BI.</i></p>
