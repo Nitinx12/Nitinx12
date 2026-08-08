@@ -1,6 +1,5 @@
-<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitinx12/Nitinx12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Analytics+Engineer;Building+Data+Pipelines;SQL+%7C+Python+%7C+dbt+%7C+Docker" />
 </p>
 
 <h1 align="center">
