@@ -21,9 +21,9 @@
 
 I build analytics-ready data platforms from raw ingestion to dashboard-ready gold layers. My work spans **ETL/ELT pipeline design, dimensional data modeling, and BI development**, with a growing focus on modern analytics engineering practices like **medallion architecture, workflow orchestration, and transformation-as-code**.
 
-I care about data that's trustworthy, fast, and easy for stakeholders to act on — whether that's a star schema powering a Power BI suite, or a dbt-modeled warehouse feeding downstream reports.
+I care about data that's trustworthy, fast, and easy for stakeholders to act on whether that's a star schema powering a Power BI suite, or a dbt-modeled warehouse feeding downstream reports.
 
-**Quick summary:** 1.5+ years turning messy, multi-source data into governed, automated reporting systems — cutting manual reporting effort by up to 40% and building pipelines that scale.
+**Quick summary:** 1.5+ years turning messy, multi-source data into governed, automated reporting systems cutting manual reporting effort by up to 40% and building pipelines that scale.
 
 ---
 
@@ -85,4 +85,4 @@ A snake that eats its way through my GitHub contribution graph.
 
 ---
 
-<p align="center"><i>Open to analytics engineering and data analyst roles — always happy to talk data modeling, pipelines, or BI.</i></p>
+<p align="center"><i>Open to analytics engineering and data analyst roles always happy to talk data modeling, pipelines, or BI.</i></p>
