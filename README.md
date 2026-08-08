@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Nitin 👋</h1>
+<h1 align="center">
+  Hi, I'm Nitin
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
+
 <p align="center">
-  <b>Analytics Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Power BI Developer</b><br/>
-  Turning raw data into decisions
+  <b>Analytics Engineer</b>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
