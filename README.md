@@ -73,8 +73,6 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinx12&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
-![Top Langs](https://github-readme-stats-nitinx12.vercel.app/api/top-langs/?username=Nitinx12&layout=compact)
-
 ---
 ### 🐍 Contribution Snake
 
