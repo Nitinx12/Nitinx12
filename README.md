@@ -78,7 +78,7 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 ### 📌 Profile Summary
 
 <p align="center">
-  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitinx12&theme=github_dark" />
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitinx12&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -90,6 +90,7 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitinx12&theme=github_dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nitinx12&theme=github_dark&utcOffset=5.5" />
 </p>
+
 ---
 
 ### 🐍 Contribution Snake
