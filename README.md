@@ -69,10 +69,9 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
   <img src="https://streak-stats.demolab.com?user=Nitinx12&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinx12&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
+</p> -->
 ---
 
 ### 📌 Profile Summary
