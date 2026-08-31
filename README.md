@@ -81,7 +81,7 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&theme=radical&custom_title=My%20Programming%20Languages&layout=default&hide_border=true" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinx12&theme=radical&custom_title=My%20Programming%20Languages&hide_border=true" />
 </p>
 
 <p align="center">
