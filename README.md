@@ -23,8 +23,6 @@ I build analytics-ready data platforms from raw data to dashboard-ready gold lay
 
 1.5+ years of experience turning messy, multi-source data into automated reporting solutions, reducing manual reporting effort by up to 40%.
 
-**Quick summary:** 1.5+ years turning messy, multi-source data into governed, automated reporting systems cutting manual reporting effort by up to 40% and building pipelines that scale.
-
 ---
 
 ### 🛠️ Tech Stack
