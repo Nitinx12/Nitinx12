@@ -80,9 +80,13 @@ Experience across editorial analytics (Medianama) and insurance BI (Bajaj Allian
   <img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitinx12&theme=github_dark" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitinx12&theme=github_dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nitinx12&theme=github_dark" />
+</p> -->
+
+<p align="center">
+  <img width="98%" src="https://github-langs-card.vercel.app/api/languages?username=Nitinx12&limit=10" alt="Top Languages" />
 </p>
 
 <p align="center">
