@@ -1,3 +1,9 @@
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nitinx12&theme=react&hide_border=true" />
+</p>
+
 <p align="center">
   <img width="98%" src="https://github-langs-card.vercel.app/api/languages?username=Nitinx12&limit=10" alt="Top Languages" />
 </p>
